@@ -1,2 +1,3 @@
-PARKINSON DISEASE DETECTION USING MACHINE LEARNING
+PARKINSON DISEASE DETECTION USING MACHINE LEARNING.
+
 This paper reviews related work and state-of-the-art publications for recognizing motor symptoms of Parkinson's Disease (PD). It presents research efforts that were undertaken to inform on how well traditional machine learning algorithms can handle this task. In particular, four PD related motor symptoms are highlighted (i.e. tremor, bradykinesia, freezing of gait and dyskinesia) and their details summarized. Thus, the primary objective of this research is to provide a literary foundation for development and improvement of algorithms for detecting PD related motor symptoms.
